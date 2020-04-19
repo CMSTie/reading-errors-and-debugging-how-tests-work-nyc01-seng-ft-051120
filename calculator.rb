@@ -1,2 +1,2 @@
-first_variable = 10
+first_number = 10
 
